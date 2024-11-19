@@ -1,0 +1,11 @@
+body {background: rgb(73, 105, 72);margin: 0;}
+div{box-sizing:border-box ; font-family: Arial, Helvetica, sans-serif;}
+header {background: black; padding: 10px;  box-shadow: 4px 4px 8px whitesmoke}
+header h1{margin: 0; color:white;}
+div.post {background: whitesmoke; margin-top: 10px; box-shadow: 0px 4px 8px black;}
+div.post img {width: 100%; box-shadow:0px 2px 4px lightslategray ;}
+div.post .post-header div:first-child{ display:inline-block; width: 80%; color:green;}
+div.post .post-header div:last-child{ display:inline-block; width: 20%;text-align: right;padding: 10px; color: grey;}
+div.post h2, div.post p {padding: 5px; margin: 0;}
+div.container{width: 600px;
+margin: auto;}
